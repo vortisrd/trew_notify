@@ -28,6 +28,10 @@
 		notifyID.querySelector('i').classList.add(notifyIcon);
 		notifyID.classList.add('fadeInRight', data.type);
 
+		setTimeout(function(){
+			notifyID.classList.add('fadeOutRight');
+		}, 15000);
+
 	}
 };
 
