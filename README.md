@@ -1,6 +1,6 @@
 # Trew NOTIFY
 
-A simple server-wide notification system.
+A simple server-wide notification system for admins/superadmins
 
 ## Demo - click on the image below.
 ![TREW NOTIFY](https://cdn.discordapp.com/attachments/641076850373689344/646871673043288075/unknown.png)
