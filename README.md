@@ -16,3 +16,4 @@ A simple server-wide notification system for admins/superadmins
 
 **/not [ normal | red | rainbow ]**  
 Sends a notification to everyone on the server. Example: **/not normal**
+It will make the system pop an input for title/subject and then for the message.
